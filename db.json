@@ -1,0 +1,52 @@
+{
+  "games": [
+    {
+      "gamename": "fcsaefwef",
+      "gameauthor": "efgwerfgw",
+      "gametags": "gergwerg",
+      "forkids": true,
+      "gamedesc": "egreg",
+      "gamerating": "2",
+      "id": 1
+    },
+    {
+      "gamename": "",
+      "gameauthor": "",
+      "gameprice": 0,
+      "gametags": "",
+      "forkids": false,
+      "gamedesc": "",
+      "id": 2
+    },
+    {
+      "gamename": "herkbfs",
+      "gameauthor": "rfa",
+      "gameprice": "24244",
+      "gametags": "gare",
+      "forkids": true,
+      "gamedesc": "ergra",
+      "gamerating": "1",
+      "id": 3
+    },
+    {
+      "gamename": "rthrhr",
+      "gameauthor": "dfshrsh",
+      "gameprice": "2212",
+      "gametags": "fdbdfb",
+      "forkids": true,
+      "gamedesc": "dfgersg",
+      "gamerating": "2",
+      "id": 4
+    },
+    {
+      "gamename": "aesf",
+      "gameauthor": "sdfs",
+      "gameprice": "234",
+      "gametags": "fsadf",
+      "forkids": true,
+      "gamedesc": "sreg",
+      "gamerating": "2",
+      "id": 5
+    }
+  ]
+}
